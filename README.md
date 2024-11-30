@@ -23,3 +23,10 @@ Aplikasi ini ditargetkan untuk digunakan oleh mahasiswa yang sedang mempelajari 
 ## Notifikasi dan Peringatan
 
 - Pemberitahuan stok barang yang hampir habis
+
+# Rekomendasi Teknologi
+
+- Kerangka Kerja (Framework): Laravel dengan php-8.3.14-nts-Win32
+- Autentikasi dan Manajemen Pengguna: Laravel Jetstream
+- Basis Data: MySQL
+- Antarmuka Pengguna (UI): Framework CSS Tailwind CSS
