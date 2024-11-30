@@ -30,3 +30,8 @@ Aplikasi ini ditargetkan untuk digunakan oleh mahasiswa yang sedang mempelajari 
 - Autentikasi dan Manajemen Pengguna: Laravel Jetstream
 - Basis Data: MySQL
 - Antarmuka Pengguna (UI): Framework CSS Tailwind CSS
+
+# asumsi menggunakan metode SCRUM
+- tiap .md adalah scrum sprint
+- 01 sampai 08 adalah Minimum viable product 1
+- 09 dst adalah adalah Minimum viable product 2
